@@ -3,78 +3,7 @@
     "name": "nature",
     "imageUrl": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?auto=format&fit=crop&w=800&q=80"
   },
-  {
-    "name": "4k",
-    "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817f69a2d?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "abstract",
-    "imageUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "space",
-    "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "animals",
-    "imageUrl": "https://images.unsplash.com/photo-1474511320723-9a56873867b5?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "city",
-    "imageUrl": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "cars",
-    "imageUrl": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "holiday",
-    "imageUrl": "https://images.unsplash.com/photo-1482330454287-3cf6611d0bc9?q=80&w=1548&auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "aesthetic",
-    "imageUrl": "https://images.unsplash.com/photo-1534531173927-aeb928d54385?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "quotes",
-    "imageUrl": "https://images.unsplash.com/photo-1555212697-194d092e3b8f?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "motion",
-    "imageUrl": "https://images.unsplash.com/photo-1725836547843-431b6c13d9eb?q=80&w=687&auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "dark",
-    "imageUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "minimal",
-    "imageUrl": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "architecture",
-    "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "flowers",
-    "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "macro",
-    "imageUrl": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "vintage",
-    "imageUrl": "https://images.unsplash.com/photo-1520038410233-7141be7e6f97?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "gaming",
-    "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=800&q=80"
-  },
-  {
-    "name": "food",
-    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=800&q=80"
-  },
+  
   {
     "name": "travel",
     "imageUrl": "https://images.unsplash.com/photo-1488085061387-422e29b40080?auto=format&fit=crop&w=800&q=80"
